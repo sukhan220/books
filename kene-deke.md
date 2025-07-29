@@ -1,12 +1,16 @@
 ![The San Juan Mountains are beautiful!](https://banglalive.com/wp-content/uploads/2022/02/Bibhutibhushan-Bandopadhyay-e1644477395773.png)
 
 # কনে দেখা 
-##### – বিভূতিভূষণ বন্দ্যোপাধ্যায়
+### – বিভূতিভূষণ বন্দ্যোপাধ্যায়
 
 
 ---
 
-*Editor:  Priyo Barua Ronel*
+
+
+
+
+###### *Editor:  Priyo Barua Ronel*
 
 
 ---page---
