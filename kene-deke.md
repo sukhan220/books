@@ -10,7 +10,7 @@
 
 
 
-###### *Editor:  Priyo Barua Ronel*
+###### Editor:  Priyo Barua Ronel
 
 
 ---page---
