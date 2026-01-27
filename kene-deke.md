@@ -11,7 +11,7 @@
 
           <!-- image optional -->
           <div class="cover-image">
-            <img src="https://github.com/golpojolpo/Image/blob/main/Untitled%20Project%20(15).jpg" />
+            <img src="https://github.com/golpojolpo/Image/blob/main/Untitled%20Project%20(15).jpg?raw=true" />
           </div>
 
           <div class="cover-bottom">
@@ -177,6 +177,7 @@
 মেমকে টাকা দিয়ে গাছটা ও কিনে নিলে। এখন ও সার্কুলার রোডের বাড়িটাতেই আছে, কাল ও গালুডিতে ফিরে যাবে, গাছটাকে নিয়ে যাচ্চে সঙ্গে করে।
 
 বিদায় নেবার সময় হিমাংশু বললে—বৈঠকখানা বাজারে এসেছিলাম কেন জানো? আমার সাধ হয়েচে ওর বিয়ে দেব। তাই একটা ছোটোখাটো, অল্প বয়সের, দেখতে ভালো পাম খুঁজছিলাম। হি-হি—পাগল নয় হে পাগল নয়, ভালোবাসার জিনিস হত তো বুঝতে।
+
 
 
 
